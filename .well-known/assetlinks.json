@@ -1,0 +1,8 @@
+[{
+         "relation": ["delegate_permission/common.handle_all_urls"],
+         "target": {
+           "namespace": "android_app",
+           "package_name": "io.github.carlosegs1506.twa",
+           "sha256_cert_fingerprints": ["F3:46:7D:6F:DE:C8:59:0B:C9:E2:33:D1:38:8A:17:13:A6:41:D1:42:E6:9E:EF:6E:B7:40:B6:1C:67:05:D0:AB"]
+         }
+       }]
